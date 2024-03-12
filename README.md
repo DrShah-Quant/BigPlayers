@@ -1,2 +1,6 @@
 # PeriodBigPlayers
- This Python program will analyze stock market tick data and visualize the transactions and volumes such that traders can spot big players over a period of time.
+ This Python program analyzes stock market tick data and visualizes transactions and volumes to help traders identify potential signs of large order activity over time.
+
+
+
+
