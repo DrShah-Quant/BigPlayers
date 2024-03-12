@@ -21,10 +21,10 @@ This Python program analyzes stock market tick data and visualizes transactions 
 
 <h2>Program walk-through:</h2>
 
-<p align="justify"> The example run presented here is from a Jupyter Notebook environment. You can run the file using Ctrl-Enter key presses. Alternatively you can run the python script <i>BigPlayers.py</i> using command <i>python BigPlayers.py</i> if you have python installed properly. The program is depended on a CSV file containing stock transactions raw data. In the example presented below, I have used raw data provided by M+ Securities, a Malaysian stock broker. The raw data contains comma separated values organized into the following colums: "Time","Type","Price","Chg","Vol","Value". "Time" is the time when the transaction occured. "Type" refers to the type of transaction such as buy, close, and open. "Price" refers to the price the share was transacted. "Chg" refers to the difference from the previous price. "Vol" refers to the transaction volume measured in lot sizes (1 lot = 100 shares). And finally "Value" refers to the value of the trasaction (i.e. no of shares x share price). </p>
+<p align="justify"> The example run presented here is from a Jupyter Notebook environment. You can run the file using Ctrl+Enter key presses. Alternatively you can run the python script <i>BigPlayers.py</i> using command <i>python BigPlayers.py</i> if you have python installed properly. The program is depended on a CSV file containing stock transactions raw data. In the example presented below, I have used raw data provided by M+ Securities, a Malaysian stock broker. The raw data contains comma separated values organized into the following colums: "Time","Type","Price","Chg","Vol","Value". "Time" is the time when the transaction occured. "Type" refers to the type of transaction such as buy, close, and open. "Price" refers to the price the share was transacted. "Chg" refers to the difference from the previous price. "Vol" refers to the transaction volume measured in lot sizes (1 lot = 100 shares). And finally "Value" refers to the value of the trasaction (i.e. no of shares x share price). </p>
 
 <p align="center">
-Launch the Program and enter CSV data filename : <br/>
+Launch the Program and enter CSV data file location : <br/>
 <img src="https://i.imgur.com/3K3XUKj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
