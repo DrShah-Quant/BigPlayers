@@ -35,7 +35,7 @@ Launch the Program and enter CSV data file location : <br/>
 Legend:  <br/>
 <img src="https://i.imgur.com/8ZBA08y.png" height="80%" width="80%" />
 <br />
- <p align="justify">The legend lists the percentile rank achieved by buy and sell transactions at the 80th percentile- for the whole of the period in consideration (i.e. the CVS dataset date range). In the example, top 20% (i.e. above percentile 80) buy volumes are all over 200 lots (percentile rank = 200) and top 20% sell volumes are all over 100 lots. </p>
+ <p align="justify">The legend lists the percentile rank achieved by buy and sell transactions at the 80th percentile for the whole of the period in consideration (i.e. the CVS dataset date range). In the example, top 20% (i.e. above percentile 80) buy volumes are all over 200 lots (percentile rank = 200) and top 20% sell volumes are all over 100 lots. </p>
 
 <br />
 Above 80 percentile buy/sell volume transactions: <br/>
